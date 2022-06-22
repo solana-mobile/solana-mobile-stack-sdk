@@ -59,7 +59,7 @@ Seed Vault:
 - Wallet API: v1.0
 - Seed Vault API simulator: aligned with Wallet API v1.0
 
-Solana App Store:
+Solana dApp Store:
 
 - App publishing tools & guidelines: _Planned_
 
