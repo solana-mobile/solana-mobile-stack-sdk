@@ -20,7 +20,7 @@ Mobile Wallet Adapter is a protocol specification for connecting apps to Wallets
 
 This SDK includes a draft version of the Mobile Wallet Adapter protocol specification, which will be completed in the coming weeks in collaboration with the open-source Solana community. It includes a reference implementation of the protocol for both wallets and apps, for local use cases.
 
-While this protocol is first announced with the [Saga](TODO), it is designed to be implemented on any mobile device. With community support, this is intended to be the mobile analogue of [wallet-adapter](https://github.com/solana-labs/wallet-adapter).
+While this protocol is first announced with the [Saga](https://solanamobile.com), it is designed to be implemented on any mobile device. With community support, this is intended to be the mobile analogue of [wallet-adapter](https://github.com/solana-labs/wallet-adapter).
 
 ### Seed Vault
 https://github.com/solana-mobile/seed-vault-sdk
