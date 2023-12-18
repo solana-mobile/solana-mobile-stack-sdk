@@ -1,0 +1,2 @@
+mkdir ~/my-solana-wallet
+solana-keygen new --outfile ~/my-solana-wallet/my-keypair.json
